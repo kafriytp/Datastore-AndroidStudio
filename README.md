@@ -2,7 +2,7 @@ AndroidX Datastore Android Studio
 
 ```java
 
-// Datastore
+    // Datastore
     implementation 'androidx.datastore:datastore-preferences:1.0.0-alpha06'
 
     // lifecycle components
